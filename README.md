@@ -1,5 +1,5 @@
-# JavaWebServicesSOAP
-Curso de Java Web Service do professor Bharath Thippireddy, disponibilizado pela udemy.
+# JavaWebServicesSOAP - wp
+WS do projeto JavaWeBServicesSOAP, criado para o curso de Java Web Service do professor Bharath Thippireddy, disponibilizado pela udemy.
 
 ## About this course
 Learn how to design,create , consume and secure SOAP and REST web services from scratch in easy steps.
